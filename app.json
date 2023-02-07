@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "TailorsKit",
+    "slug": "TailorsKit",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "TailorsKit"
+}
